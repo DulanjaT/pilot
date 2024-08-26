@@ -22,3 +22,5 @@ alert(name);
 this text will be **bold**
 
 if you want to highlight the term, use backsticks like `this`
+
+adding a fox smile
